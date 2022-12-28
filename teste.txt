@@ -1,0 +1,6 @@
+git init
+git add teste.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/leandrosf1/curso_git_1.git
+git push -u origin main
